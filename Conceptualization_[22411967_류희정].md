@@ -1,10 +1,14 @@
 # Conceptualization
 
+<img width="681" height="684" alt="Logo" src="https://github.com/user-attachments/assets/0c3d33b1-5ebe-4db8-88f2-00d4becf1be1" />
+
+
 ## Beverage Kiosk System
 
 Student No. 22411967
 Name 류희정
 E-mail wisebestgirl@naver.com 
+
 
 ---
 
@@ -67,10 +71,9 @@ E-mail wisebestgirl@naver.com
 - Payment System: 카드 및 간편 결제를 처리하는 외부 결제 시스템
 - Store Server: 주문 정보 및 메뉴 데이터를 저장하고 관리하는 서버
 - Manager: 메뉴 및 주문 데이터를 관리하는 관리자
+Customer는 Kiosk System을 통해 메뉴를 조회하고 주문 및 결제를 수행하고, Kiiosk System은 Payment System과 연동하여 결제를 처리하며, Store Server와 통신하여 주문데이터를 저장 및 관리한다.
+Manager은 Store Server을 통해 메뉴 및 주문 내역을 관리한다.
 
-Customer는 Kiosk System을 통해 메뉴를 조회하고 주문 및 결제를 수행한다.  
-Kiosk System은 Payment System과 연동하여 결제를 처리하며, Store Server와 통신하여 주문 데이터를 저장 및 관리한다.  
-Manager는 Store Server를 통해 메뉴 및 주문 내역을 관리한다.
 ---
 
 ## 3. Use case list
