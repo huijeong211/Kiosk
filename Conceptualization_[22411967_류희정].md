@@ -5,9 +5,11 @@
 
 ## Beverage Kiosk System
 
-Student No. 22411967
-Name 류희정
-E-mail wisebestgirl@naver.com 
+Student No. | 22411967
+|-----------|--------------------|
+Name | 류희정
+|-----------|--------------------|
+E-mail | wisebestgirl@naver.com 
 
 
 ---
