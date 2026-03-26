@@ -89,11 +89,9 @@ Description
 ---
 
 ### 2) Select Menu
-Actor  
-Customer  
-
-Description  
-사용자가 원하는 음료를 선택한다.
+Actor | Customer
+|-----------|--------------------|
+Description | 사용자가 원하는 음료를 선택한다.
 
 ---
 
