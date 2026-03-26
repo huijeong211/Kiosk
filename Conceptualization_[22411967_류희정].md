@@ -70,6 +70,7 @@ Print Receipt                     영수증 출력
 Confirm Receipt                   영수증 출력 확인  
 Manage Menu                       관리자 메뉴 관리  
 View Order History                관리자 주문 내용 확인  
+
 ## 3) Target Market
 
 - 카페 및 음료 매장을 이용하는 고객들과 판매자들을 대상으로 한다.  
@@ -88,8 +89,9 @@ View Order History                관리자 주문 내용 확인
 - Payment System: 카드 및 간편 결제를 처리하는 외부 결제 시스템
 - Store Server: 주문 정보 및 메뉴 데이터를 저장하고 관리하는 서버
 - Manager: 메뉴 및 주문 데이터를 관리하는 관리자
-Customer는 Kiosk System을 통해 메뉴를 조회하고 주문 및 결제를 수행하고, Kiiosk System은 Payment System과 연동하여 결제를 처리하며, Store Server와 통신하여 주문데이터를 저장 및 관리한다.
-Manager은 Store Server을 통해 메뉴 및 주문 내역을 관리한다.
+- 
+Customer는 Kiosk System를 통해 메뉴를 조회하고 주문 및 결제를 수행하고, Kiosk System은 Payment System과 연동하여 결제를 처리하며, Store Server와 통신하여 주문데이터를 저장 및 관리한다.
+Manager은 Store Server를 통해 메뉴 및 주문 내역을 관리한다.
 
 ---
 
