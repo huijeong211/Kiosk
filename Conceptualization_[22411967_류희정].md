@@ -408,6 +408,12 @@ Manager은 Store Server를 통해 메뉴 및 주문 내역을 관리한다.
 
 ## 7. References
 
- Study on the Usability of Kiosk in the Foodservice Industry  
+ Study on the Usability of Kiosk in the Foodservice Industry
+ 외식기업 키오스크의 사용성 분석에 관한 연구
 - https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002752705
+
+Design Improvement of Hospital Kiosk for Enhanced Patient Experience -a focus on interface design in Gangwon Province Hospitals-
+사용자 중심의 병원 무인 키오스크 디자인 개선 방향 -강원도 종합병원 키오스크 인터페이스를 중심으로-
+- https://scholar.kyobobook.co.kr/article/detail/4040070901197
+  
 
